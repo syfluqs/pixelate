@@ -1,0 +1,1 @@
+Arduino Code for the bot is available [here](https://github.com/syfluqs/arduino/blob/master/pixelate_bot/pixelate_bot.ino).
